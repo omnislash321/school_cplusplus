@@ -1,0 +1,105 @@
+This program calculates population change.
+Enter the starting population size: Enter the annual birth rate (as % of current population): 
+Birth rate percent cannot be negative.
+Please re-enter: 
+Enter the annual death rate (as % of current population): 
+For how many years do you wish to view population changes? 
+Years must be one or more, but less than or equal to 100.
+Please re-enter: 
+Years must be one or more, but less than or equal to 100.
+Please re-enter: 
+
+
+Starting population: 1526
+
+Population at the end of year 1 is 1968.
+Population at the end of year 2 is 2539.
+Population at the end of year 3 is 3275.
+Population at the end of year 4 is 4225.
+Population at the end of year 5 is 5451.
+Population at the end of year 6 is 7032.
+Population at the end of year 7 is 9071.
+Population at the end of year 8 is 11702.
+Population at the end of year 9 is 15096.
+Population at the end of year 10 is 19473.
+Population at the end of year 11 is 25121.
+Population at the end of year 12 is 32406.
+Population at the end of year 13 is 41804.
+Population at the end of year 14 is 53927.
+Population at the end of year 15 is 69566.
+Population at the end of year 16 is 89740.
+Population at the end of year 17 is 115765.
+Population at the end of year 18 is 149337.
+Population at the end of year 19 is 192645.
+Population at the end of year 20 is 248512.
+Population at the end of year 21 is 320581.
+Population at the end of year 22 is 413550.
+Population at the end of year 23 is 533479.
+Population at the end of year 24 is 688188.
+Population at the end of year 25 is 887763.
+Population at the end of year 26 is 1145214.
+Population at the end of year 27 is 1477327.
+Population at the end of year 28 is 1905752.
+Population at the end of year 29 is 2458420.
+Population at the end of year 30 is 3171362.
+Population at the end of year 31 is 4091057.
+Population at the end of year 32 is 5277463.
+Population at the end of year 33 is 6807928.
+Population at the end of year 34 is 8782227.
+Population at the end of year 35 is 11329073.
+Population at the end of year 36 is 14614504.
+Population at the end of year 37 is 18852711.
+Population at the end of year 38 is 24319997.
+Population at the end of year 39 is 31372796.
+Population at the end of year 40 is 40470907.
+Population at the end of year 41 is 52207470.
+Population at the end of year 42 is 67347637.
+Population at the end of year 43 is 86878452.
+Population at the end of year 44 is 112073203.
+Population at the end of year 45 is 144574432.
+Population at the end of year 46 is 186501018.
+Population at the end of year 47 is 240586313.
+Population at the end of year 48 is 310356344.
+Population at the end of year 49 is 400359684.
+Population at the end of year 50 is 516463992.
+Population at the end of year 51 is 666238550.
+Population at the end of year 52 is 859447730.
+Population at the end of year 53 is 1108687572.
+Population at the end of year 54 is 1430206968.
+Population at the end of year 55 is 1844966989.
+Population at the end of year 56 is -2147483648.
+Population at the end of year 57 is -2147483648.
+Population at the end of year 58 is -2147483648.
+Population at the end of year 59 is -2147483648.
+Population at the end of year 60 is -2147483648.
+Population at the end of year 61 is -2147483648.
+Population at the end of year 62 is -2147483648.
+Population at the end of year 63 is -2147483648.
+Population at the end of year 64 is -2147483648.
+Population at the end of year 65 is -2147483648.
+Population at the end of year 66 is -2147483648.
+Population at the end of year 67 is -2147483648.
+Population at the end of year 68 is -2147483648.
+Population at the end of year 69 is -2147483648.
+Population at the end of year 70 is -2147483648.
+Population at the end of year 71 is -2147483648.
+Population at the end of year 72 is -2147483648.
+Population at the end of year 73 is -2147483648.
+Population at the end of year 74 is -2147483648.
+Population at the end of year 75 is -2147483648.
+Population at the end of year 76 is -2147483648.
+Population at the end of year 77 is -2147483648.
+Population at the end of year 78 is -2147483648.
+Population at the end of year 79 is -2147483648.
+Population at the end of year 80 is -2147483648.
+Population at the end of year 81 is -2147483648.
+Population at the end of year 82 is -2147483648.
+Population at the end of year 83 is -2147483648.
+Population at the end of year 84 is -2147483648.
+Population at the end of year 85 is -2147483648.
+Population at the end of year 86 is -2147483648.
+Population at the end of year 87 is -2147483648.
+Population at the end of year 88 is -2147483648.
+Population at the end of year 89 is -2147483648.
+Population at the end of year 90 is -2147483648.
+Population at the end of year 91 is -2147483648.

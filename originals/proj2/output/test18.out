@@ -1,0 +1,102 @@
+This program calculates population change.
+Enter the starting population size: Starting population must be 2 or more.
+Please re-enter: Enter the annual birth rate (as % of current population): 
+Birth rate percent cannot be negative.
+Please re-enter: 
+Enter the annual death rate (as % of current population): 
+For how many years do you wish to view population changes? 
+Years must be one or more, but less than or equal to 100.
+Please re-enter: 
+Years must be one or more, but less than or equal to 100.
+Please re-enter: 
+Years must be one or more, but less than or equal to 100.
+Please re-enter: 
+Years must be one or more, but less than or equal to 100.
+Please re-enter: 
+Years must be one or more, but less than or equal to 100.
+Please re-enter: 
+Years must be one or more, but less than or equal to 100.
+Please re-enter: 
+Years must be one or more, but less than or equal to 100.
+Please re-enter: 
+Years must be one or more, but less than or equal to 100.
+Please re-enter: 
+Years must be one or more, but less than or equal to 100.
+Please re-enter: 
+Years must be one or more, but less than or equal to 100.
+Please re-enter: 
+Years must be one or more, but less than or equal to 100.
+Please re-enter: 
+Years must be one or more, but less than or equal to 100.
+Please re-enter: 
+Years must be one or more, but less than or equal to 100.
+Please re-enter: 
+
+
+Starting population: 7010
+
+Population at the end of year 1 is 7711.
+Population at the end of year 2 is 8482.
+Population at the end of year 3 is 9330.
+Population at the end of year 4 is 10263.
+Population at the end of year 5 is 11289.
+Population at the end of year 6 is 12418.
+Population at the end of year 7 is 13660.
+Population at the end of year 8 is 15026.
+Population at the end of year 9 is 16529.
+Population at the end of year 10 is 18182.
+Population at the end of year 11 is 20000.
+Population at the end of year 12 is 22000.
+Population at the end of year 13 is 24200.
+Population at the end of year 14 is 26620.
+Population at the end of year 15 is 29282.
+Population at the end of year 16 is 32210.
+Population at the end of year 17 is 35431.
+Population at the end of year 18 is 38975.
+Population at the end of year 19 is 42872.
+Population at the end of year 20 is 47159.
+Population at the end of year 21 is 51875.
+Population at the end of year 22 is 57063.
+Population at the end of year 23 is 62769.
+Population at the end of year 24 is 69046.
+Population at the end of year 25 is 75951.
+Population at the end of year 26 is 83546.
+Population at the end of year 27 is 91901.
+Population at the end of year 28 is 101091.
+Population at the end of year 29 is 111200.
+Population at the end of year 30 is 122320.
+Population at the end of year 31 is 134552.
+Population at the end of year 32 is 148007.
+Population at the end of year 33 is 162808.
+Population at the end of year 34 is 179089.
+Population at the end of year 35 is 196998.
+Population at the end of year 36 is 216697.
+Population at the end of year 37 is 238367.
+Population at the end of year 38 is 262204.
+Population at the end of year 39 is 288424.
+Population at the end of year 40 is 317267.
+Population at the end of year 41 is 348994.
+Population at the end of year 42 is 383893.
+Population at the end of year 43 is 422282.
+Population at the end of year 44 is 464511.
+Population at the end of year 45 is 510962.
+Population at the end of year 46 is 562058.
+Population at the end of year 47 is 618264.
+Population at the end of year 48 is 680090.
+Population at the end of year 49 is 748099.
+Population at the end of year 50 is 822909.
+Population at the end of year 51 is 905200.
+Population at the end of year 52 is 995720.
+Population at the end of year 53 is 1095293.
+Population at the end of year 54 is 1204822.
+Population at the end of year 55 is 1325304.
+Population at the end of year 56 is 1457835.
+Population at the end of year 57 is 1603618.
+Population at the end of year 58 is 1763980.
+Population at the end of year 59 is 1940378.
+Population at the end of year 60 is 2134416.
+Population at the end of year 61 is 2347857.
+Population at the end of year 62 is 2582643.
+Population at the end of year 63 is 2840908.
+Population at the end of year 64 is 3124998.
+Population at the end of year 65 is 3437498.

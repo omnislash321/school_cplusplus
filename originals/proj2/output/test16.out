@@ -1,0 +1,56 @@
+This program calculates population change.
+Enter the starting population size: Enter the annual birth rate (as % of current population): 
+Enter the annual death rate (as % of current population): 
+For how many years do you wish to view population changes? 
+Years must be one or more, but less than or equal to 100.
+Please re-enter: 
+Years must be one or more, but less than or equal to 100.
+Please re-enter: 
+
+
+Starting population: 7496
+
+Population at the end of year 1 is 9070.
+Population at the end of year 2 is 10974.
+Population at the end of year 3 is 13279.
+Population at the end of year 4 is 16068.
+Population at the end of year 5 is 19442.
+Population at the end of year 6 is 23525.
+Population at the end of year 7 is 28466.
+Population at the end of year 8 is 34443.
+Population at the end of year 9 is 41677.
+Population at the end of year 10 is 50429.
+Population at the end of year 11 is 61019.
+Population at the end of year 12 is 73833.
+Population at the end of year 13 is 89338.
+Population at the end of year 14 is 108099.
+Population at the end of year 15 is 130800.
+Population at the end of year 16 is 158268.
+Population at the end of year 17 is 191505.
+Population at the end of year 18 is 231721.
+Population at the end of year 19 is 280382.
+Population at the end of year 20 is 339263.
+Population at the end of year 21 is 410508.
+Population at the end of year 22 is 496715.
+Population at the end of year 23 is 601025.
+Population at the end of year 24 is 727241.
+Population at the end of year 25 is 879961.
+Population at the end of year 26 is 1064753.
+Population at the end of year 27 is 1288352.
+Population at the end of year 28 is 1558906.
+Population at the end of year 29 is 1886276.
+Population at the end of year 30 is 2282394.
+Population at the end of year 31 is 2761697.
+Population at the end of year 32 is 3341653.
+Population at the end of year 33 is 4043400.
+Population at the end of year 34 is 4892515.
+Population at the end of year 35 is 5919943.
+Population at the end of year 36 is 7163131.
+Population at the end of year 37 is 8667388.
+Population at the end of year 38 is 10487540.
+Population at the end of year 39 is 12689923.
+Population at the end of year 40 is 15354808.
+Population at the end of year 41 is 18579317.
+Population at the end of year 42 is 22480974.
+Population at the end of year 43 is 27201979.
+Population at the end of year 44 is 32914394.

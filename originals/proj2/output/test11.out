@@ -1,0 +1,76 @@
+This program calculates population change.
+Enter the starting population size: Starting population must be 2 or more.
+Please re-enter: Enter the annual birth rate (as % of current population): 
+Birth rate percent cannot be negative.
+Please re-enter: 
+Enter the annual death rate (as % of current population): 
+Death rate percent cannot be negative.
+Please re-enter: 
+For how many years do you wish to view population changes? 
+
+
+Starting population: 4454
+
+Population at the end of year 1 is 4186.
+Population at the end of year 2 is 3935.
+Population at the end of year 3 is 3699.
+Population at the end of year 4 is 3477.
+Population at the end of year 5 is 3268.
+Population at the end of year 6 is 3072.
+Population at the end of year 7 is 2888.
+Population at the end of year 8 is 2715.
+Population at the end of year 9 is 2552.
+Population at the end of year 10 is 2398.
+Population at the end of year 11 is 2255.
+Population at the end of year 12 is 2119.
+Population at the end of year 13 is 1992.
+Population at the end of year 14 is 1873.
+Population at the end of year 15 is 1760.
+Population at the end of year 16 is 1654.
+Population at the end of year 17 is 1555.
+Population at the end of year 18 is 1462.
+Population at the end of year 19 is 1374.
+Population at the end of year 20 is 1292.
+Population at the end of year 21 is 1214.
+Population at the end of year 22 is 1141.
+Population at the end of year 23 is 1073.
+Population at the end of year 24 is 1008.
+Population at the end of year 25 is 948.
+Population at the end of year 26 is 891.
+Population at the end of year 27 is 837.
+Population at the end of year 28 is 787.
+Population at the end of year 29 is 740.
+Population at the end of year 30 is 695.
+Population at the end of year 31 is 654.
+Population at the end of year 32 is 614.
+Population at the end of year 33 is 578.
+Population at the end of year 34 is 543.
+Population at the end of year 35 is 510.
+Population at the end of year 36 is 480.
+Population at the end of year 37 is 451.
+Population at the end of year 38 is 424.
+Population at the end of year 39 is 398.
+Population at the end of year 40 is 374.
+Population at the end of year 41 is 352.
+Population at the end of year 42 is 331.
+Population at the end of year 43 is 311.
+Population at the end of year 44 is 292.
+Population at the end of year 45 is 275.
+Population at the end of year 46 is 258.
+Population at the end of year 47 is 243.
+Population at the end of year 48 is 228.
+Population at the end of year 49 is 214.
+Population at the end of year 50 is 201.
+Population at the end of year 51 is 189.
+Population at the end of year 52 is 178.
+Population at the end of year 53 is 167.
+Population at the end of year 54 is 157.
+Population at the end of year 55 is 148.
+Population at the end of year 56 is 139.
+Population at the end of year 57 is 130.
+Population at the end of year 58 is 123.
+Population at the end of year 59 is 115.
+Population at the end of year 60 is 108.
+Population at the end of year 61 is 102.
+Population at the end of year 62 is 96.
+Population at the end of year 63 is 90.

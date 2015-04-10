@@ -1,0 +1,2 @@
+g++ -c movie_stats.cpp
+g++ movie_stats.o -o movie_stats

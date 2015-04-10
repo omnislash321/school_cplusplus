@@ -1,0 +1,73 @@
+This program calculates population change.
+Enter the starting population size: Enter the annual birth rate (as % of current population): 
+Enter the annual death rate (as % of current population): 
+For how many years do you wish to view population changes? 
+Years must be one or more, but less than or equal to 100.
+Please re-enter: 
+Years must be one or more, but less than or equal to 100.
+Please re-enter: 
+
+
+Starting population: 1734
+
+Population at the end of year 1 is 1491.
+Population at the end of year 2 is 1282.
+Population at the end of year 3 is 1102.
+Population at the end of year 4 is 948.
+Population at the end of year 5 is 815.
+Population at the end of year 6 is 701.
+Population at the end of year 7 is 603.
+Population at the end of year 8 is 518.
+Population at the end of year 9 is 446.
+Population at the end of year 10 is 383.
+Population at the end of year 11 is 330.
+Population at the end of year 12 is 283.
+Population at the end of year 13 is 244.
+Population at the end of year 14 is 209.
+Population at the end of year 15 is 180.
+Population at the end of year 16 is 155.
+Population at the end of year 17 is 133.
+Population at the end of year 18 is 114.
+Population at the end of year 19 is 98.
+Population at the end of year 20 is 84.
+Population at the end of year 21 is 73.
+Population at the end of year 22 is 62.
+Population at the end of year 23 is 54.
+Population at the end of year 24 is 46.
+Population at the end of year 25 is 39.
+Population at the end of year 26 is 34.
+Population at the end of year 27 is 29.
+Population at the end of year 28 is 25.
+Population at the end of year 29 is 21.
+Population at the end of year 30 is 18.
+Population at the end of year 31 is 16.
+Population at the end of year 32 is 13.
+Population at the end of year 33 is 11.
+Population at the end of year 34 is 10.
+Population at the end of year 35 is 8.
+Population at the end of year 36 is 7.
+Population at the end of year 37 is 6.
+Population at the end of year 38 is 5.
+Population at the end of year 39 is 4.
+Population at the end of year 40 is 4.
+Population at the end of year 41 is 3.
+Population at the end of year 42 is 3.
+Population at the end of year 43 is 2.
+Population at the end of year 44 is 2.
+Population at the end of year 45 is 1.
+Population at the end of year 46 is 1.
+Population at the end of year 47 is 1.
+Population at the end of year 48 is 1.
+Population at the end of year 49 is 1.
+Population at the end of year 50 is 0.
+Population at the end of year 51 is 0.
+Population at the end of year 52 is 0.
+Population at the end of year 53 is 0.
+Population at the end of year 54 is 0.
+Population at the end of year 55 is 0.
+Population at the end of year 56 is 0.
+Population at the end of year 57 is 0.
+Population at the end of year 58 is 0.
+Population at the end of year 59 is 0.
+Population at the end of year 60 is 0.
+Population at the end of year 61 is 0.

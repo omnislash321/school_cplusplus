@@ -1,0 +1,25 @@
+This program calculates population change.
+Enter the starting population size: Starting population must be 2 or more.
+Please re-enter: Starting population must be 2 or more.
+Please re-enter: Enter the annual birth rate (as % of current population): 
+Enter the annual death rate (as % of current population): 
+For how many years do you wish to view population changes? 
+
+
+Starting population: 2
+
+Population at the end of year 1 is 2.
+Population at the end of year 2 is 2.
+Population at the end of year 3 is 2.
+Population at the end of year 4 is 2.
+Population at the end of year 5 is 2.
+Population at the end of year 6 is 2.
+Population at the end of year 7 is 3.
+Population at the end of year 8 is 3.
+Population at the end of year 9 is 3.
+Population at the end of year 10 is 3.
+Population at the end of year 11 is 3.
+Population at the end of year 12 is 4.
+Population at the end of year 13 is 4.
+Population at the end of year 14 is 4.
+Population at the end of year 15 is 4.

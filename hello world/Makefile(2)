@@ -1,0 +1,29 @@
+#-------------------------------------------------------------------------------
+# Project Name  : Hello World
+# Written by    : Gilberto Perez
+# Last Modified : 09/30/2014
+#-------------------------------------------------------------------------------
+
+# Notice the '.PHONY' target. 
+# This target tells Make that 'all','clean' and 'tarball are not files. 
+# This is usually not required, but useful if for some reason files called 'all'
+# 'clean' or 'tarball' are ever created.
+.PHONY: clean all tarball
+
+all: hello_world
+
+# The following targets automate the process of creating a tarball. To activate
+# it simply remove the leading '# ' and replace '<username>' with your own.
+# tarball: <username>-hello_world.tar.gz
+#
+# <username>-hello_world.tar.gz: clean
+#		cd .. &&	tar -czvf <username>-hello_world.tar.gz ./hello_world/*
+
+hello_world: hello_world.o
+	g++ hello_world.o -o hello_world
+
+hello_world.o: hello_world.cpp
+	g++ -c hello_world.cpp
+
+clean:
+	rm -rf *o hello_world
